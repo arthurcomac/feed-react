@@ -11,7 +11,6 @@ function App() {
       <div className={styles.wrapper}>
         <aside>
           <Sidebar />
-          <Sidebar />
         </aside>        
         <main>
           <Post />
